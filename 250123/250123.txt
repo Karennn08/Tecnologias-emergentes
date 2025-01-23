@@ -1,0 +1,63 @@
+INTRODUCCION A BLOCKCHAIN:
+Como nacio el blockchain, enigma cifraba mensajes para ocultar la informacion que se compartia
+esto lo hacia con un cifrado simetrico (cifra y decifra con la misma llave). Los britanicos inventaron bombe, una maquina que 
+resolvia los cifrados. 
+Hay condiciones de frontera, cosas que se repiten, y se puede decifrar la llave del cifrado.
+
+Entonces se creo el cifrado asimetrico y sistemas descentralizados para mandar info.
+
+Inflacion, dolar y bitcoin, cripto monedas.
+
+El blockchain es una red descentralizada de bloques o nodos. Cada bloque es una maquina de stados
+
+BTCOIN:
+llave -> valor 
+owner -> direccion publica
+Balance -> numero ENTERO
+decimales -> 8 para bitcoin o 18 para otras. Numeros que se consideran decimales
+Maximo -> 21millones en circulacion -> 2.100.000.000.000.000 
+
+osea 0.1btc -> 10.000.000 satoshis
+
+EJEMPLO DE BLOQUE:
+
+Bloque genesis
+publica001 : 100.000 satoshis
+publica002 : 65.000 satoshis
+publica003 : 34.000 satoshis
+
+luego lo encripto, cifrado sha256, matematicamente irreversible 
+
+Esa ecuacion devuelve un hash que le pertenece a ese bloque
+
+----------------
+Bloque numero 2
+hash anterior + nuevo balance
+publica001 : 100.000 satoshis
+publica002 : 65.000 satoshis
+publica003 : 22.000 satoshis
+publica003 : 12.000 satoshis
+
+bloque de palabras que me genera el inicio deseado
+
+pow = prueba de control -> hasta que empiece con lo que yo quiera y me genere el nuevo hash
+pos = probe of stake 
+
+Smart contracts -> ethereum
+
+EVM -> ethereum virtual machine, sobre esta ivm corren los contratos escritos en solidity
+Todas las direcciones publicas de evm son 0x${hexadecimal, 40 caracteres despues de la x}
+
+Billeteras construidas con palabras 24 o 12, la ecuacion de la curva es la llave cada punto es una direccion publica
+Esas palabras hay que guardarlas en fisico pq si se pierden pailas, no se puede recuperar.
+
+Escalabilidad -> hay que pagar para crear el contrato inteligente, dependiendo del procesamiento de computo
+precio del gas
+
+Trilema de la escalabilidad (descentralizacion escalabilidad y secuguridad)
+en ese Trilema hay que sacrificar algo
+Etherium -> descentralizacion y seguridad
+Baynance -> escalabilidad y seguridad
+solana ->escalabilidad y descentralizacion
+
+
