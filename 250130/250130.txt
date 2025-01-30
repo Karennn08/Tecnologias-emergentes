@@ -1,0 +1,19 @@
+Pscinas de liquidez:
+Tengo 2 criptos ejem (eth = 1 dll y dai = 100 dll) 
+
+1. Proveedor de liquidez: deposita 1000 dai y 10 eth
+2. Trader: 
+
+Comprar libro a la piscina en 12 y se vende a la piscina en 11
+
+En un exchange se pueden compra vende dif tipos de archivos, como okx centralizados
+o   LFJ descentralizado. Reciben dollares y te entregan ciptos o al revez.
+
+AVERIGUAR:
+Yield Farming
+Staking
+
+Dfi -> prestar plata e historial crediticio AAve o binance https://gho.aave.com/faucet
+
+
+

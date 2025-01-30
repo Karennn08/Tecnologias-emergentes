@@ -61,3 +61,24 @@ Baynance -> escalabilidad y seguridad
 solana ->escalabilidad y descentralizacion
 
 
+Optimistic rollups -> Agregar en capa 2, Empaquetar un grupo de transacciones en un rollups y lo envias en una unica 
+transaccion. Esperar 15 dias para confirmar que no se va a revertir.
+
+Zero knowledge -> tmb rollups. Pasa por un proceso matematico de verificacion. No hay que esperar 15 dias pues e valida
+matematicamente y se manda a la capa 1.
+
+PROBAR BLOCKCHAIN EN ANTES DE TESTNET PA QUE ME REGALEN PLATA
+
+Sidechains -> Una BC paralela, despues de tantas transacciones manda un hsch de los bloques que pasaron
+
+
+Cosmos -> ecosistema multi cadena, multiple BC una por nicho especifico, interoperabilidad
+Polcaut -> cuando nace una bc es validada por todos los nodos de la red
+Fuel -> BC modular
+
+HAY BC PUBLICOS Y PRIVADOS
+
+Hay tokens fungibles puedo cambiar uno por otro, reemplazable; y no fungibles, unicos, no reemplazable
+
+https://pad.riseup.net/p/blockchain-javeriana-cali 
+
