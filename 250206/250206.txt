@@ -1,0 +1,74 @@
+Ai puede correr en blockchain.
+Ai abierto con blockchain
+LLM para intractuar con blockchain y ejecutar instrucciones
+
+Brian note, permite interactuar mediante lenguaje natural
+Que son apis
+
+circle y tether -> monedas estables
+
+_____________________________________________________
+
+OPORTUNIDADES Y COMUNIDADES EN WEB3:
+
+FRUTERO CLUB: hackatones, conferencias, talleres, mexicano pero online .
+
+HER DAO (organizacion autonoma descentralizada) LATAM: comunidad de mujeres, BECAS, aprender sobre blockchain
+Dan un token de gobernanza por pertenecer a la comunidad
+
+BAF: Financian becas y hackatones
+
+TALENT PRTOCOL: BECAS
+
+GITCOIN: levantar inversiones para proyectos
+
+ARAGON: para ver propuestas y votar por los mejores proyectos y dar fondos
+APPSAFE: MULTIFIRMA, la billetera es de un grupo de billeteras. Se pueden mover solo en base a unas reglas, cuando 75% esta de acuerdo ejecutar
+
+AVALANCHE TEAM1 LATAM: mañana evento blockchain
+gameday cali calle 15 norte https://lu.ma/wc1t90aw
+
+ULTRAVIOLETA: se reunen 1pm, sacaron un token comunitario, bootcamps
+
+_______________________________________________________
+OPORTUNIDADES: farmear hackatones
+
+ETH global: Hackatones mas grande de etherium, agentic etherium
+
+CONSENSUS: hackatones 
+
+ETHDENVER: hackatones
+
+DORAHACKS: 
+
+ALEPH: argentina, conferencias, cowork, hackatones
+
+DEVFOLIO: hack 
+
+_____________________________________________________
+OPORTUNIDADES INDUSTRIA:
+
+AVA LABS CARRERS: ing blockchain, staff, etc
+
+FORTA PERKS: home work
+
+ONCHAIN FUNDATION
+
+BERACHAIN CARRERS:
+
+BUCKSPAY
+_____________________________________________________
+https://docs.google.com/document/d/1B2bsOHrIMKJxEcBmse7zC1wVviPzVHQ3QS0nSypHsGU/edit?tab=t.0
+test net aave
+simular el interactuar
+
+burrito Ai
+
+faucet
+_____________________________________________________
+REPASO A DEFI:
+
+CCOP (EN CELO) COPM (SMART CONTRACT POLYGON) COPW (WENIA SMART CONTRACT) -> CRIPOTOMONEDA ESTABLE Y DIRECTA CON EL COP
+
+ANYDESK -> conectar con cualquier compu remoto
+KYT AND KWC
